@@ -1,2 +1,3 @@
 line1 Hello
 added in the hotfix branch
+
