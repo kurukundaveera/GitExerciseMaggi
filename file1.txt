@@ -1,2 +1,1 @@
 line1 Hello
-added part of 14 question
